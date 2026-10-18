@@ -1,0 +1,3 @@
+Flask==3.1.3
+flask-cors
+falkordb==1.8.0
